@@ -1,0 +1,133 @@
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn1.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn2.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn5.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn6.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn7.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn8.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\SpaceBrain.exe
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\SpaceBrain.pdb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.csprojResolveAssemblyReference.cache
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.exe
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.pdb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\cam.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\miniMap.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\background.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\background1.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\main.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\fonts\newGame.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\fonts\story.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\spaceship.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Untitled.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\bullet.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\bullet2.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\S2.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\first.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\title.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\welcoming.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life1.xnb
+C:\Users\'Siya\Documents\Intelligent Industrial Systems\GPM20AT\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\alien.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\cam.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\miniMap.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn1.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn2.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn5.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn6.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn7.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn8.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\background.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\background1.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\main.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\spaceship.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Untitled.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\bullet2.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\bullet.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\S2.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\first.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\title.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\welcoming.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life1.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\alien.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\fonts\newGame.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\fonts\story.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\SpaceBrain.exe
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\SpaceBrain.pdb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.csprojResolveAssemblyReference.cache
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.exe
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.pdb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life2.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life3.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life4.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life5.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\flame.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\shot.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\Entrance.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\Entrance.wma
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\A4.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife2.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife3.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife4.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife5.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\gameOver.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\gameOver1.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\A6.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\back1.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\back2.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\back3.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\dead.xnb
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\dead.wma
+C:\Users\'Siya\Desktop\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\option.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\cam.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\miniMap.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn1.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn2.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn5.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn6.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn7.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Welcoming\btn8.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\background.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\background1.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\main.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\spaceship.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\Untitled.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\bullet2.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\bullet.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\S2.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\first.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\title.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\welcoming.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life1.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\alien.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life2.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life3.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life4.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\life5.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\flame.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\A4.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife2.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife3.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife4.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\life\mainLife5.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\gameOver.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\gameOver1.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\sprites\A6.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\back1.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\back3.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\option.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\fonts\newGame.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\fonts\story.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\shot.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\Entrance.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\dead.xnb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\Entrance.wma
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\music\dead.wma
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\SpaceBrain.exe
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\SpaceBrain.pdb
+G:\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.csprojResolveAssemblyReference.cache
+G:\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.exe
+G:\DemoFinal\SpaceBrain\SpaceBrain\obj\x86\Debug\SpaceBrain.pdb
+G:\DemoFinal\SpaceBrain\SpaceBrain\bin\x86\Debug\Content\images\camera\back2.xnb
